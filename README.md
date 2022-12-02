@@ -2,6 +2,11 @@
 
 My solutions for some of the coding puzzles from the [Advent of Code](https://adventofcode.com/) 2022 event.
 
-## 01 Calorie Couning
+## 01 Calorie Counting
 
-The elves are carring multiple snacks and we want to find out how many calories the elves are carring with the greatest sum from their snacks.
+The elves are carrying multiple snacks and we want to find out how many calories the elves are carrying with the greatest sum from their snacks.
+
+
+## 02 Rock Paper Scissors
+
+The elves are hosting a Rock Paper Scissors tournament. The task in this is to calculate the expected score based on different interpretations of the given strategy guide.
