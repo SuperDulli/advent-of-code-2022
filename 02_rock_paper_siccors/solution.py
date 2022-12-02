@@ -52,3 +52,23 @@ for line in lines:
 	score += shape_score(translate_shape(line[2])) + outcome_score(is_winning(line[0], translate_shape(line[2])))
 
 print(score)
+
+def translate_win(player):
+	if player == "X":
+		return -1
+	elif player == "Y":
+		return 0
+	elif player == "Z":
+		return 1
+
+def get_move(opponent, should_win):
+	for move in ["A", "B", "C"]:
+		if is_winning(opponent, move) == should_win:
+			return move
+
+score = 0
+for line in lines:
+	should_win = translate_win(line[2])
+	score += outcome_score(should_win) + shape_score(get_move(line[0], should_win))
+
+print(score)
