@@ -10,3 +10,8 @@ The elves are carrying multiple snacks and we want to find out how many calories
 ## 02 Rock Paper Scissors
 
 The elves are hosting a Rock Paper Scissors tournament. The task in this is to calculate the expected score based on different interpretations of the given strategy guide.
+
+
+## 03 Rucksack Reorganization
+
+The Backpacks of the elves were not packed as intended. The task is to find common items between different backpacks.
