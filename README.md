@@ -30,3 +30,8 @@ The ship with the final supplies needs to be unloaded. The crane moves the boxes
 ## 06 Tuning Trouble
 
 The handheld device, the elves gave you, receives signals. The task is to count when the after which received symbol it detects markers, that indicate the start of either the packet or message. The markers consists of a series of unique symbols.
+
+
+## 07 No Space Left on Disk
+
+To be able to run the software update you need to free up storage space. The task is to find how big the directories are and which of them to delete.
