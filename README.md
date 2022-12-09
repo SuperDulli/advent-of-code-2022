@@ -35,3 +35,8 @@ The handheld device, the elves gave you, receives signals. The task is to count 
 ## 07 No Space Left on Disk
 
 To be able to run the software update you need to free up storage space. The task is to find how big the directories are and which of them to delete.
+
+
+## 08 Tree Top House
+
+The elves want to construct a tree house. The task is to calculate how many trees are visible from different places to find the best spot for it.
