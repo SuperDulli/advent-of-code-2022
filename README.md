@@ -40,3 +40,23 @@ To be able to run the software update you need to free up storage space. The tas
 ## 08 Tree Top House
 
 The elves want to construct a tree house. The task is to calculate how many trees are visible from different places to find the best spot for it.
+
+## 09 Rope Bridge
+
+On the rope bridge the knots in the supporting ropes follow each other when the bridge is moving. The task is to model how the last knot follows the leading knots.
+
+## 10 Cathode-Ray Tube
+
+To repair the broken device a CRT is installed and a program taht displayes sprites on it. The task is to simulate that programm and figure out what is displayed.
+
+## 11 Monkey in the Middle
+
+Monkeys are throwning the items from the backback to each other in a predictable way. The task is to count how many times the monkeys look at the items and to keep the computaion values managable.
+
+## 12 Hill Climbing Algorithm
+
+The device gives you a heightmap of the surronding area. The task is to find a the path with the fewest steps to the top and down again.
+
+## 13 Distress signal
+
+The deveice receives a distress signal but the packtes come out of order. The tasks are to figure out which packets are still in the correct order and put all in correct order.
